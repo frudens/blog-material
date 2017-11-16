@@ -1,13 +1,17 @@
 # blog-material
 
-### ModularFileMaker の #Parameters の使い方と活用方法について
+## 概要
 
-https://frudens.jp/filemaker-modular-parameters/
+* `ja`フォルダーの中に、記事URLと同じフォルダーを作成しています。
 
-### API連携のテストには “テキストを挿入” がおすすめ
+## ModularFileMaker の #Parameters の使い方と活用方法について
 
-https://frudens.com/ja/blog/api-coordination-recommended-insert-text/
+* https://frudens.jp/filemaker-modular-parameters/
 
-### カスタムメニューは "削除" ではなく "インストール時の条件" を設定すると効率がよい
+## API連携のテストには “テキストを挿入” がおすすめ
 
-https://frudens.com/ja/blog/filemaker-custom-menu-install-setting/
+* https://frudens.com/ja/blog/api-coordination-recommended-insert-text/
+
+## カスタムメニューは "削除" ではなく "インストール時の条件" を設定すると効率がよい
+
+* https://frudens.com/ja/blog/filemaker-custom-menu-install-setting/
